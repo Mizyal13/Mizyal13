@@ -25,21 +25,21 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/status/coding.gif"
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJldnNlb2doc29rbm1tenRpcHZvZmh1ZHlpODh5Zjl6cGJoNndscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"
            alt="coding animation"
            style="width:160px;height:160px;object-fit:cover;border-radius:12px;display:block;"/>
       <br/>
       <b>Current mission</b><br/>Realtime analytics hub on Next.js + Supabase + Prisma.
     </td>
     <td align="center" width="33%">
-      <img src="./assets/status/design.gif"
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI0djM0ODNqdm56dzF1a3Jtd2FlMWV4em5uZmFsaWxkN3FkMnBpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"
            alt="design animation"
            style="width:160px;height:160px;object-fit:cover;border-radius:12px;display:block;"/>
       <br/>
       <b>Design mood</b><br/>UI/UX sprints with Tailwind + Bootstrap mashups.
     </td>
     <td align="center" width="33%">
-      <img src="./assets/status/mentoring.gif"
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg3cmgxNmFucjNtNnNsZmNmMGN4OXkweDZhMm11MzYzYmdiOHZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f487PGVGnDs4hYSSxE/giphy.gif"
            alt="mentoring animation"
            style="width:160px;height:160px;object-fit:cover;border-radius:12px;display:block;"/>
       <br/>
@@ -55,7 +55,7 @@
 ### 🎨 Frontend Arsenal
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/140431376-6cf5f5f0-47ef-4570-8a30-04464c78d7b3.gif" width="320" alt="frontend motion"/><br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="frontend motion"/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma" alt="frontend icons"/>
 </div>
 
@@ -79,7 +79,7 @@
 ### 🗄️ Data & Realtime
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/140431375-85daed1b-229d-4f3c-909c-58db7b5b3cce.gif" width="320" alt="data animation"/><br/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFhdHRsNTI0aG05dGNxczg5bTY0ZW1sNmlibmNzOTE3eWZmbGRmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="320" height="200 alt="data animation"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" alt="database icons"/>
 </div>
 
@@ -90,7 +90,7 @@
 ### 🚀 DevOps & Tooling
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" alt="devops animation"/><br/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" height="200px alt="devops animation"/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vercel,supabase,postman" alt="devops icons"/>
 </div>
 
@@ -110,7 +110,7 @@
       <b>Animated dashboards</b><br/>React/Next.js interfaces with theme toggles, charts, and motion.
     </td>
     <td width="33%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/140431371-afb7c0fc-6b0e-4bf1-bf6e-0c2b47a0cd86.gif" width="200" alt="code flow"/><br/>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="100" alt="code flow"/><br/>
       <b>Realtime collab</b><br/>Supabase realtime + Express keeps teams synced across devices.
     </td>
     <td width="33%" align="center">
@@ -165,9 +165,9 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="design inspo"/></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/140431377-9b20b0a1-35d0-4c05-8a60-6756096eb3b3.gif" width="220" alt="retro computer"/></td>
-    <td align="center"><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="220" alt="city lights"/></td>
+    <td align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" height="100alt="design inspo"/></td>
+    <td align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" height="100 alt="retro computer"/></td>
+    <td align="center"><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="220" height="100 alt="city lights"/></td>
   </tr>
 </table>
 
