@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="720" alt="Tunnel animation"/>
   
   <h1>⚡ Mizyal Jillauzi</h1>
-  <h3>Full-stack maker from Jakarta turning ideas into fast, playful web products.</h3>
+  <h3>Fullstack Developer | Focus on Laravel, Express.js, and TypeScript | Passionate about clean and scalable web apps</h3>
   
   <p>
     <a href="https://mizyaljillauzi.my.id" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
