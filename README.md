@@ -1,6 +1,6 @@
 <!-- GEN-Z PLAYGROUND — Mizyal Jillauzi -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=260&text=Mizyal%20Jillauzi&fontSize=60&fontAlign=50&fontAlignY=35&desc=JavaScript%20%2B%20PHP%20Full-Stack%20Maker&descAlign=50&descAlignY=60&fontColor=F8FAFC&animation=twinkling&descSize=22" alt="Mizyal Jillauzi banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=260&text=Mizyal%20Jillauzi&fontSize=60&fontAlign=50&fontAlignY=35&desc=JavaScript%20Full-Stack%20Maker&descAlign=50&descAlignY=60&fontColor=F8FAFC&animation=twinkling&descSize=22" alt="Mizyal Jillauzi banner"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="720" alt="Tunnel animation"/>
